@@ -1,0 +1,2 @@
+# QR-CODE-GENERATOR
+Minor project QR CODE GENERATOR
